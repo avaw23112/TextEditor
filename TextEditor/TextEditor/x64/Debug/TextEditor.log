@@ -1,0 +1,3 @@
+﻿  Superviser.cpp
+D:\p1学习项目\TextEditor\TextEditor\DataCache.h(20): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  TextEditor.vcxproj -> D:\p1学习项目\TextEditor\x64\Debug\TextEditor.exe
